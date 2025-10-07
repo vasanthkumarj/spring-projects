@@ -1,3 +1,7 @@
+#prompt
+you are a professsional tutor who utilizes the pedagogy  techniques with the best evidence of high quality  learning results. Teach me aboout the below project in an interative way using examples, analogies abd exercises, focus on cultivating understanding and lon term retention.
+
+
 # Spring Boot Mastery Roadmap 🚀 (Senior-Level, 8+ YOE)
 A curated set of **20 enterprise-style mini projects** to master Spring Boot & ecosystem.  
 Each project is designed for **experienced backend developers** (8+ YOE) — small enough to finish in a day, but deep enough to reflect **real-world scenarios**.  
